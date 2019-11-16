@@ -16,6 +16,7 @@ const config = {
       actions: `${PATHS.input}actions`,
       reducers: `${PATHS.input}reducers`,
       components: `${PATHS.input}components`,
+      pages:  `${PATHS.input}pages`,
       containers: `${PATHS.input}containers`,
       assets: `${PATHS.input}assets`,
       style: `${PATHS.input}style`
