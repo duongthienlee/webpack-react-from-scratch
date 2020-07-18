@@ -50,7 +50,7 @@
     "@material-ui/icons": "^4.5.1",
     "eslint": "6.1.0",
     "install-peerdeps": "^1.10.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-router-dom": "^5.0.1",
